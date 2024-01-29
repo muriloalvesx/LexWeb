@@ -379,6 +379,8 @@ drop-login .drop-item span{
     flex: 1 1 17rem;
 }
 .faq-img{
+    width: 30vh;
+    height: 30vh;
     flex: 1 1 17rem;
 }
 .faq-title{
