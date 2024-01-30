@@ -677,7 +677,6 @@ form .send-btn:hover{
     align-items: center;
     column-gap: 10px;
 }
-.ri-whatsapp-fill,
 .ri-instagram-fill{
     display: inline-flex;
     align-items: center;
@@ -693,7 +692,6 @@ form .send-btn:hover{
     cursor: pointer;
     transition: all .50s ease;
 }
-.ri-whatsapp-fill:hover,
 .ri-instagram-fill:hover{
     transform: scale(1.1);
     box-shadow: 0 0 20px var(--main-color);
