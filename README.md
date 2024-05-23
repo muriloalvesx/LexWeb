@@ -11,6 +11,6 @@ Meu próprio WebSite para divulgar meus serviços freelances.
 </div><br/>
 
 <div style="display: flex"><br/>
-<img align="center" alt="lexweb1"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/5c930ec8-cea4-4904-a530-1ecb3898e65e" width="450px"/>
-<img align="center" alt="lexweb2"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/ecc6e9b5-7b9b-45a5-b980-d6f4488e5893" width="550px"/>
+<img align="center" alt="lexweb1"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/63f776ad-72fa-4744-8e4f-26b4d63a51ba" width="477px"/>
+<img align="center" alt="lexweb2"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/ecc6e9b5-7b9b-45a5-b980-d6f4488e5893" width="503px"/>
 </div><br/>
