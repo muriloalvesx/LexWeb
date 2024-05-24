@@ -10,6 +10,10 @@ Meu próprio WebSite para divulgar meus serviços freelances.
     <img align="center" alt="js"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
+### Acesse em:
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lexweb.netlify.app/) https://lexweb.netlify.app
+
 <div style="display: flex"><br/>
 <img align="center"  alt="lexweb1"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/63f776ad-72fa-4744-8e4f-26b4d63a51ba" width="397px"/>
 <img align="center" alt="lexweb2"src="https://github.com/muriloalvesx/LexWeb/assets/153781890/ecc6e9b5-7b9b-45a5-b980-d6f4488e5893" width="423px"/>
